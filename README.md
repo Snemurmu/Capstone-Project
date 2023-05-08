@@ -8,13 +8,13 @@ The steady progress toward deeper implementation of AR within customer service i
 
 
 
-#Platform : Xamarin , C#
-#Target : Android OS
-#AR Platform : Google ARCore
-#Target Device : Motorola Device.
-#Low Code/No Code : Make use of sample code from Microsoft/Xamarin or 
-#Tools : Jira
-#Daily Scrum : 10:30 AM
+Platform : Xamarin , C#
+Target : Android OS
+AR Platform : Google ARCore
+Target Device : Motorola Device.
+Low Code/No Code : Make use of sample code from Microsoft/Xamarin or 
+Tools : Jira
+Daily Scrum : 10:30 AM
 
 This is the goal for everyday update on this project.
 What did you yesterday ?
